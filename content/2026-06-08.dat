@@ -1,0 +1,1006 @@
+{
+  "date": "2025-06-07",
+  "version": 1,
+  "puzzles": [
+    {
+      "id": "001",
+      "category": "animals",
+      "hints": [
+        "I spend up to 22 hours a day sleeping and am considered a professional at it.",
+        "I have two thumbs — but both are technically called 'false thumbs' made of wrist bone.",
+        "I eat almost exclusively one plant that, nutritionally speaking, is a terrible idea."
+      ],
+      "answer": "Giant Panda",
+      "answerSubtitle": "The world's laziest vegetarian",
+      "funFact": "A giant panda must eat 26–84 pounds of bamboo every day just to survive, because bamboo has almost zero nutritional value. Its digestive system is still that of a carnivore — evolution simply didn't get the memo that it switched teams.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/001.jpg",
+      "imagePrompt": "Giant panda asleep face-down in a pile of bamboo, comic bold illustration, dark background, teal accent",
+      "options": [
+        "Sloth Bear",
+        "Koala",
+        "Red Panda",
+        "Giant Panda"
+      ]
+    },
+    {
+      "id": "002",
+      "category": "science",
+      "hints": [
+        "I am the only planet in our solar system that rotates on its side — roughly 98 degrees.",
+        "My seasons last 21 Earth years each, meaning winter on my poles lasts two decades.",
+        "I am the third largest planet and was only discovered in 1781, surprisingly late."
+      ],
+      "answer": "Uranus",
+      "answerSubtitle": "The sideways planet",
+      "funFact": "Uranus likely got knocked onto its side by a collision with a protoplanet roughly the size of Earth billions of years ago. One pole spends 42 years facing the Sun followed by 42 years of complete darkness — the most dramatic seasonal calendar in the solar system.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/002.jpg",
+      "imagePrompt": "Uranus tilted sideways in space with rings going up and down instead of horizontal, comic space illustration, bold teal and indigo colors",
+      "options": [
+        "Jupiter",
+        "Neptune",
+        "Uranus",
+        "Saturn"
+      ]
+    },
+    {
+      "id": "003",
+      "category": "food",
+      "hints": [
+        "I was invented in 1853 by a chef who was annoyed that a customer kept sending their food back.",
+        "The customer complained the dish was too thick and soggy, so the chef made me as thin and crispy as possible out of spite.",
+        "I am now one of the world's most popular snack foods, found in every supermarket on Earth."
+      ],
+      "answer": "Potato Chips",
+      "answerSubtitle": "Born from culinary rage",
+      "funFact": "George Crum invented crisps at Moon's Lake House in Saratoga Springs, New York, after a fussy customer repeatedly sent back thick French fries. Crum sliced potatoes paper-thin and fried them until crunchy — and the customer loved them. The dish became 'Saratoga Chips' and spread worldwide.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/003.jpg",
+      "imagePrompt": "An angry chef furiously slicing potatoes paper-thin in a 1850s kitchen while a smug customer watches, comic editorial illustration",
+      "options": [
+        "French Fries",
+        "Pretzels",
+        "Popcorn",
+        "Potato Chips"
+      ]
+    },
+    {
+      "id": "004",
+      "category": "places",
+      "hints": [
+        "I am a country where it is illegal to chew gum, yet I am consistently ranked one of the world's cleanest cities.",
+        "I transformed from a fishing village to a global financial hub in under 60 years.",
+        "I am a city-state — the entire country is just one city."
+      ],
+      "answer": "Singapore",
+      "answerSubtitle": "The city that is also a country",
+      "funFact": "Singapore banned chewing gum in 1992 after gum repeatedly jammed the sensors on its new MRT subway doors. The ban is still in force, though dentists and pharmacists can dispense therapeutic gum with a prescription. Singapore has gone from third-world to first-world in a single generation — GDP per capita surpassed the UK within 30 years of independence.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/004.jpg",
+      "imagePrompt": "Singapore skyline at night with a no-chewing-gum sign in the foreground, comic bold editorial illustration, teal city lights",
+      "options": [
+        "Hong Kong",
+        "Monaco",
+        "Singapore",
+        "Luxembourg"
+      ]
+    },
+    {
+      "id": "005",
+      "category": "history",
+      "hints": [
+        "I was the shortest war in recorded history, lasting somewhere between 38 and 45 minutes.",
+        "I took place in 1896 between Britain and a sultanate on the East African coast.",
+        "The losing side surrendered before the British even finished their morning tea."
+      ],
+      "answer": "The Anglo-Zanzibar War",
+      "answerSubtitle": "The 40-minute war",
+      "funFact": "The Anglo-Zanzibar War of 1896 began at 9:02 AM and ended by 9:40 AM. Britain issued an ultimatum demanding the new Sultan step down; he didn't; the Royal Navy opened fire. The Sultan's palace was shelled, his fleet sunk, and he fled to the German consulate. British casualties: one sailor. Zanzibari casualties: 500.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/005.jpg",
+      "imagePrompt": "British warship firing cannons at a palace while a clock shows only 40 minutes have passed, comic historical editorial illustration",
+      "options": [
+        "The Crimean War",
+        "The Falklands War",
+        "The Gulf War",
+        "The Anglo-Zanzibar War"
+      ]
+    },
+    {
+      "id": "006",
+      "category": "animals",
+      "hints": [
+        "I can survive being frozen solid, dehydrated to 3% of my body weight, and exposed to the vacuum of space.",
+        "I am the most resilient animal ever discovered — virtually indestructible by any known force.",
+        "I am microscopic — only 0.5mm long — and look like a tiny eight-legged bear."
+      ],
+      "answer": "Tardigrade",
+      "answerSubtitle": "The indestructible water bear",
+      "funFact": "Tardigrades can survive temperatures from -272°C to 150°C, radiation doses 1,000 times lethal to humans, and the vacuum of open space. They do it by entering 'cryptobiosis' — replacing all water in their cells with a special sugar called trehalose and shutting down entirely. They're effectively immortal until conditions improve.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/006.jpg",
+      "imagePrompt": "A microscopic tardigrade depicted as a tiny chubby bear surviving in space, frozen, and in lava simultaneously, bold comic science illustration",
+      "options": [
+        "Cockroach",
+        "Immortal Jellyfish",
+        "Horseshoe Crab",
+        "Tardigrade"
+      ]
+    },
+    {
+      "id": "007",
+      "category": "tech",
+      "hints": [
+        "I was originally designed as a military communication network meant to survive nuclear war.",
+        "My inventors had no idea they were creating something that would eventually host 5 billion users.",
+        "My earliest version connected just four university computers in 1969."
+      ],
+      "answer": "The Internet",
+      "answerSubtitle": "ARPANET's accidental legacy",
+      "funFact": "The Internet's ancestor, ARPANET, sent its first message on October 29, 1969. The intended message was 'LOGIN' — but the system crashed after just two letters. The first message ever transmitted on what became the Internet was 'LO'. The researchers called it a night and tried again the next morning.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/007.jpg",
+      "imagePrompt": "Four old computers connected by glowing strings in 1969, one screen showing the letters LO before crashing, comic bold tech illustration",
+      "options": [
+        "The Fax Machine",
+        "The Telephone",
+        "The Internet",
+        "Radio"
+      ]
+    },
+    {
+      "id": "008",
+      "category": "movies",
+      "hints": [
+        "I was rejected by every major Hollywood studio before becoming one of the highest-grossing films ever made.",
+        "My director spent 15 years trying to get me made and mortgaged his house to fund the early work.",
+        "I am set mostly underwater and featured entirely computer-generated characters — in 2003."
+      ],
+      "answer": "Finding Nemo",
+      "answerSubtitle": "Pixar's underwater adventure",
+      "funFact": "Finding Nemo required Pixar to invent entirely new water-simulation software — the ocean in the film required more computing power than any previous animated film. The entire movie contains 74 distinct species of fish and coral, all researched meticulously. It grossed $940 million on a $94 million budget.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/008.jpg",
+      "imagePrompt": "Two bright orange clownfish swimming through a vivid coral reef, movie-poster quality, bold teal underwater editorial illustration",
+      "options": [
+        "Toy Story",
+        "The Little Mermaid",
+        "Finding Nemo",
+        "Shrek"
+      ]
+    },
+    {
+      "id": "009",
+      "category": "general",
+      "hints": [
+        "I am something you do approximately 23,000 times per day without ever consciously deciding to.",
+        "Newborns do it faster than adults — around 40–60 times per minute.",
+        "You are probably doing it right now, but reading this sentence may have briefly made you stop."
+      ],
+      "answer": "Breathing",
+      "answerSubtitle": "The thing you just thought about",
+      "funFact": "The moment you become aware of your breathing, you briefly take manual control from your brainstem's automatic respiratory centre — which is why reading this fact makes you hyper-aware of each breath. The brainstem resumes control the moment your attention drifts, which it will do in approximately 8 seconds.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/009.jpg",
+      "imagePrompt": "Person suddenly looking very aware and panicked about their own breathing, thought bubble showing lungs, comic editorial illustration",
+      "options": [
+        "Breathing",
+        "Swallowing",
+        "Blinking",
+        "Digesting"
+      ]
+    },
+    {
+      "id": "010",
+      "category": "history",
+      "hints": [
+        "I was built in just 410 days — faster than any comparable structure before or since.",
+        "My builders used a 'continuous pour' concrete method that required workers to operate 24 hours a day.",
+        "When I opened in 1931 I was the tallest building in the world, a record I held for 40 years."
+      ],
+      "answer": "The Empire State Building",
+      "answerSubtitle": "New York's Art Deco crown",
+      "funFact": "At peak construction, the Empire State Building was assembled at a rate of 4.5 floors per week — roughly one floor every 38 hours. It was built during the Great Depression, and workers were paid $1.92 per day. The building was nicknamed 'Empty State Building' for years because no one could afford to rent office space during the economic collapse.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/010.jpg",
+      "imagePrompt": "Empire State Building under construction in 1930, workers on steel beams at dizzying heights, bold comic historical illustration",
+      "options": [
+        "One World Trade Center",
+        "The Sears Tower",
+        "The Empire State Building",
+        "The Chrysler Building"
+      ]
+    },
+    {
+      "id": "011",
+      "category": "food",
+      "hints": [
+        "I was considered a luxury food served only to aristocrats in 18th-century France and was so expensive that King Louis XV's mistress reputedly ate me to enhance her complexion.",
+        "I am technically a fruit — the seed of a tropical tree — but almost every recipe treats me as a spice or flavouring.",
+        "I am the world's second most expensive spice by weight, after saffron."
+      ],
+      "answer": "Vanilla",
+      "answerSubtitle": "The aristocratic flavouring",
+      "funFact": "Vanilla orchids are pollinated by just one species of bee, native only to Mexico — which is why Mexico was the sole producer of vanilla for centuries. When vanilla plants were exported to Madagascar, the bees weren't. Every vanilla pod grown outside Mexico must be hand-pollinated by human workers using a tiny wooden stick, one flower at a time.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/011.jpg",
+      "imagePrompt": "Delicate vanilla orchid with a magnified bee pollinating it, while a tiny human hand-pollinates another flower nearby, editorial botanical comic illustration",
+      "options": [
+        "Cardamom",
+        "Cinnamon",
+        "Cloves",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": "012",
+      "category": "sports",
+      "hints": [
+        "I am a sport where the aim is to hit a ball into a series of holes using the fewest possible strokes.",
+        "I was invented in Scotland in the 15th century and was so popular that King James II banned it — twice — because it was distracting soldiers from archery practice.",
+        "A score of 18 on an 18-hole course is considered average but technically has a specific name."
+      ],
+      "answer": "Golf",
+      "answerSubtitle": "Scotland's banned distraction",
+      "funFact": "The word 'golf' does not stand for 'Gentlemen Only, Ladies Forbidden' — that is a popular myth with no historical basis. The word likely derives from the Dutch 'kolf' or Scottish 'gouf,' both referring to a club or stick. The game was banned three times by Scottish kings before they eventually gave up and started playing it themselves.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/012.jpg",
+      "imagePrompt": "Medieval Scottish soldier distracted from archery by a golf game in the background, king looking furious, comic bold historical illustration",
+      "options": [
+        "Polo",
+        "Tennis",
+        "Cricket",
+        "Golf"
+      ]
+    },
+    {
+      "id": "013",
+      "category": "science",
+      "hints": [
+        "I am something your body produces more of when you exercise, fall in love, or eat dark chocolate.",
+        "I am a neurotransmitter associated with reward and motivation — the brain's internal celebration chemical.",
+        "Lack of me is linked to Parkinson's disease and depression; too much of me is linked to schizophrenia."
+      ],
+      "answer": "Dopamine",
+      "answerSubtitle": "The brain's reward chemical",
+      "funFact": "Dopamine doesn't actually cause pleasure — it causes the anticipation of pleasure. It fires before the reward, not during. This is why the pursuit of something is often more thrilling than getting it, and why social media notifications are more addictive than the content itself: the notification is the dopamine hit.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/013.jpg",
+      "imagePrompt": "Brain with a tiny fireworks display inside the reward centre, dopamine molecules shaped like celebration confetti, bold comic science illustration",
+      "options": [
+        "Oxytocin",
+        "Serotonin",
+        "Dopamine",
+        "Adrenaline"
+      ]
+    },
+    {
+      "id": "014",
+      "category": "places",
+      "hints": [
+        "I am a country whose capital city sits exactly on the equator — the only such capital in the world.",
+        "I sit across four time zones, yet the entire country officially uses a single time zone by presidential decree.",
+        "I am the world's largest archipelago, composed of over 17,000 islands."
+      ],
+      "answer": "Indonesia",
+      "answerSubtitle": "The equatorial archipelago",
+      "funFact": "Indonesia is so wide that if it were placed over Europe, it would stretch from Ireland to the Caspian Sea. Its western tip is in a completely different time zone from its eastern tip. The single-timezone policy was briefly tried in 2012 and reversed after widespread confusion; Indonesia currently uses three official time zones.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/014.jpg",
+      "imagePrompt": "17,000 tiny islands spread across a vast ocean from above, equator line passing through them, bold editorial map illustration, teal waters",
+      "options": [
+        "Japan",
+        "Maldives",
+        "Philippines",
+        "Indonesia"
+      ]
+    },
+    {
+      "id": "015",
+      "category": "movies",
+      "hints": [
+        "My famous shower scene contains 70 camera setups and 77 edits yet lasts only 45 seconds.",
+        "My director shot me in black and white specifically so audiences would find the blood less disturbing — it didn't work.",
+        "I was the first American film to show a toilet flushing on screen."
+      ],
+      "answer": "Psycho",
+      "answerSubtitle": "Hitchcock's 1960 masterpiece",
+      "funFact": "Alfred Hitchcock had to fight the MPAA censors extensively over Psycho — not for the violence, but for the toilet. Showing a flushing toilet was considered obscene and had never been done in a mainstream American film. Hitchcock reportedly included the scene specifically to see if he could get it past the censors. He did.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/015.jpg",
+      "imagePrompt": "Old black and white film camera pointed at a shower scene with a director's chair labelled Hitchcock, bold comic film-history illustration",
+      "options": [
+        "Psycho",
+        "Vertigo",
+        "The Birds",
+        "Rear Window"
+      ]
+    },
+    {
+      "id": "016",
+      "category": "general",
+      "hints": [
+        "I am the only man-made structure visible from space — except that this is a myth and I am not.",
+        "I stretch over 21,000 kilometres and took over 2,000 years to complete in various phases.",
+        "I am made of multiple walls built by different dynasties, most of which are no longer standing."
+      ],
+      "answer": "The Great Wall of China",
+      "answerSubtitle": "History's most misunderstood landmark",
+      "funFact": "Astronauts confirm the Great Wall is not visible from space with the naked eye — it's too narrow. The myth was invented in 1932, decades before anyone went to space. Chinese astronaut Yang Liwei, the first Chinese person in space, specifically looked for it and couldn't find it, which caused something of a national identity crisis in China.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/016.jpg",
+      "imagePrompt": "Great Wall of China from above with an astronaut in space looking through binoculars and seeing nothing, comic bold editorial illustration",
+      "options": [
+        "The Berlin Wall",
+        "The Great Wall of China",
+        "Hadrian's Wall",
+        "The Pyramids of Giza"
+      ]
+    },
+    {
+      "id": "017",
+      "category": "animals",
+      "hints": [
+        "I have three hearts, blue blood, and nine brains — one central and one in each arm.",
+        "I can change colour in 0.3 seconds despite being completely colour-blind.",
+        "Each of my arms can taste, touch, and act independently from my central brain."
+      ],
+      "answer": "Octopus",
+      "answerSubtitle": "The alien of the sea",
+      "funFact": "Two-thirds of an octopus's neurons are in its arms, not its central brain. Each arm can solve problems, open jars, and navigate mazes independently. Scientists discovered octopus arms continue to react to stimuli for up to an hour after being severed — they're effectively autonomous beings that happen to share a body.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/017.jpg",
+      "imagePrompt": "Octopus with nine small brain icons glowing in its head and arms, three hearts visible, colour-change pattern shifting across its skin, bold comic science illustration",
+      "options": [
+        "Squid",
+        "Nautilus",
+        "Cuttlefish",
+        "Octopus"
+      ]
+    },
+    {
+      "id": "018",
+      "category": "history",
+      "hints": [
+        "I was a tax introduced by the British in 1696 on a very specific architectural feature of houses.",
+        "The wealthy paid it; the poor bricked up the feature to avoid it — creating a distinctive look still visible in old British buildings.",
+        "You let light and air in through me."
+      ],
+      "answer": "Window Tax",
+      "answerSubtitle": "The tax that darkened Britain",
+      "funFact": "The Window Tax was levied in England from 1696 to 1851 — 155 years of taxing daylight. Houses with fewer than 10 windows paid nothing; more windows meant more tax. Thousands of homes were permanently altered, windows bricked up to reduce the bill. The phrase 'daylight robbery' is widely believed to originate from this tax, though historians debate it.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/018.jpg",
+      "imagePrompt": "A Georgian British house with half its windows bricked up, a tax collector outside with a clipboard counting the remaining windows, comic bold historical illustration",
+      "options": [
+        "Hearth Tax",
+        "Beard Tax",
+        "Window Tax",
+        "Salt Tax"
+      ]
+    },
+    {
+      "id": "019",
+      "category": "food",
+      "hints": [
+        "I originated in Yemen and Ethiopia but am now the world's second most traded commodity after oil.",
+        "My discovery legend involves a goat herder who noticed his animals wouldn't sleep after eating certain berries.",
+        "Without me, the Industrial Revolution would have been considerably slower and considerably more tired."
+      ],
+      "answer": "Coffee",
+      "answerSubtitle": "The goat herder's discovery",
+      "funFact": "The legend of Kaldi the goat herder — who noticed his goats dancing energetically after eating certain red berries in 850 CE — may be apocryphal, but coffee's Ethiopian origin is well established. The word 'coffee' derives from Kaffa, a region in Ethiopia. Coffee houses in 17th-century London were called 'penny universities' because for a penny (the price of a cup), anyone could sit and discuss ideas with anyone else.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/019.jpg",
+      "imagePrompt": "A goat herder watching his goats dance energetically near a coffee plant in ancient Ethiopia, bold comic warm-toned illustration",
+      "options": [
+        "Tobacco",
+        "Cocoa",
+        "Tea",
+        "Coffee"
+      ]
+    },
+    {
+      "id": "020",
+      "category": "science",
+      "hints": [
+        "I am a concept that states the universe is expanding — and every galaxy is moving away from every other galaxy simultaneously.",
+        "I was proposed by a Belgian priest who moonlighted as a physicist, which is a remarkable hobby.",
+        "I is often confused with a single explosion, but I was actually the rapid expansion of all space itself from an infinitely dense point."
+      ],
+      "answer": "The Big Bang",
+      "answerSubtitle": "The universe's opening act",
+      "funFact": "The term 'Big Bang' was coined sarcastically in 1949 by astronomer Fred Hoyle, who actually opposed the theory and preferred a competing 'steady state' model. He used the term dismissively on a BBC radio programme — and it stuck. Hoyle spent decades trying to disprove his own inadvertent branding, without success.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/020.jpg",
+      "imagePrompt": "Universe exploding outward from a single point with galaxies flying in all directions, Belgian priest in the corner looking smug, bold cosmic comic illustration",
+      "options": [
+        "The Big Bang",
+        "The Steady State Theory",
+        "The Multiverse",
+        "Dark Matter"
+      ]
+    },
+    {
+      "id": "021",
+      "category": "places",
+      "hints": [
+        "I am a country that has never been colonised in modern history — one of only a handful worldwide.",
+        "I was formerly known by a name meaning 'land of a thousand hills.'",
+        "I have the highest proportion of women in parliament of any country on Earth."
+      ],
+      "answer": "Rwanda",
+      "answerSubtitle": "The land of a thousand hills",
+      "funFact": "Rwanda's parliament is over 61% female — the highest of any legislature in the world. This transformation came partly from rebuilding after the 1994 genocide, which killed nearly a million people in 100 days. Today Rwanda is frequently cited as one of Africa's most stable, clean, and fastest-growing economies, with monthly national cleaning days where everyone, including the president, sweeps the streets.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/021.jpg",
+      "imagePrompt": "Rolling green hills of Rwanda with parliament building displaying majority women icons, bold editorial map illustration, warm tones",
+      "options": [
+        "Rwanda",
+        "Uganda",
+        "Kenya",
+        "Burundi"
+      ]
+    },
+    {
+      "id": "022",
+      "category": "sports",
+      "hints": [
+        "I am the only sport officially played on the Moon.",
+        "I was played there in February 1971 by an astronaut using a makeshift club.",
+        "The player described the ball as going 'miles and miles and miles' — which was slight exaggeration but not by much."
+      ],
+      "answer": "Golf",
+      "answerSubtitle": "The lunar sport",
+      "funFact": "Apollo 14 astronaut Alan Shepard smuggled a six-iron golf club head onto the Moon, attaching it to a sample-collecting rod. He hit two golf balls one-handed (his spacesuit was too stiff to swing two-handed). The balls travelled roughly 40 yards and 200 yards respectively, due to the Moon's low gravity and no air resistance. NASA found out only minutes before launch and couldn't stop him.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/022.jpg",
+      "imagePrompt": "Astronaut in a spacesuit hitting a golf ball on the Moon's surface with Earth visible in the background, ball flying impossibly far, bold comic space illustration",
+      "options": [
+        "Golf",
+        "Bobsled",
+        "Curling",
+        "Skeleton"
+      ]
+    },
+    {
+      "id": "023",
+      "category": "tech",
+      "hints": [
+        "I was invented in 1971 and was intended to be a temporary communication tool for a single computer network.",
+        "My inventor used the @ symbol as a separator — the first use of @ in this context.",
+        "I am the most commonly used communication system on Earth, with 4 billion active users."
+      ],
+      "answer": "Email",
+      "answerSubtitle": "The 1971 accident still running",
+      "funFact": "Ray Tomlinson invented email and sent the first message to himself. He later admitted he couldn't remember what it said — probably 'QWERTYUIOP' or something similar he typed at random. He chose @ because it was on the keyboard and 'seemed right.' He described the invention as 'not a grand thing' and was reportedly surprised anyone still talked about it decades later.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/023.jpg",
+      "imagePrompt": "A 1970s computer programmer accidentally inventing email by typing QWERTYUIOP, looking confused at his screen, bold retro comic illustration",
+      "options": [
+        "The Telephone",
+        "Text Messaging",
+        "The Fax Machine",
+        "Email"
+      ]
+    },
+    {
+      "id": "024",
+      "category": "animals",
+      "hints": [
+        "I am the fastest land animal alive, capable of 70 mph, but I can only maintain this for about 30 seconds.",
+        "Unlike most big cats, I cannot roar — I purr instead.",
+        "I am the only big cat that cannot retract my claws fully, which is why I need them to grip the ground."
+      ],
+      "answer": "Cheetah",
+      "answerSubtitle": "The sprinting cat",
+      "funFact": "A cheetah accelerates from 0 to 60 mph in three seconds — faster than most sports cars. But this comes at enormous cost: after a sprint, its body temperature is so high it must rest for 30 minutes before eating or it risks fatal hyperthermia. Hyenas and lions frequently steal kills from cheetahs during this recovery period, which is evolution being particularly unkind.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/024.jpg",
+      "imagePrompt": "Cheetah mid-sprint with a speedometer showing 70mph, hyena in background waiting patiently, bold comic nature illustration",
+      "options": [
+        "Jaguar",
+        "Cougar",
+        "Cheetah",
+        "Leopard"
+      ]
+    },
+    {
+      "id": "025",
+      "category": "history",
+      "hints": [
+        "I was the pen name of three sisters who wrote under male names because publishers in the 1840s didn't take female authors seriously.",
+        "Our real surnames were all the same: we were siblings.",
+        "One of us wrote about a governess who falls in love with her employer; another wrote about the Yorkshire moors and revenge."
+      ],
+      "answer": "The Brontë Sisters",
+      "answerSubtitle": "Currer, Ellis, and Acton Bell",
+      "funFact": "Charlotte, Emily, and Anne Brontë published under the names Currer, Ellis, and Acton Bell respectively in 1847. All three novels — Jane Eyre, Wuthering Heights, and Agnes Grey — were published within months of each other. Publishers and critics speculated for years about whether the Bell brothers were one person or three. The literary world was genuinely shocked when it turned out they were women.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/025.jpg",
+      "imagePrompt": "Three women writing at desks in a Victorian parlour, their manuscripts titled with male pen names, bold literary editorial illustration",
+      "options": [
+        "The Rossetti Sisters",
+        "The Brontë Sisters",
+        "The Austen Sisters",
+        "The Shelley Sisters"
+      ]
+    },
+    {
+      "id": "026",
+      "category": "general",
+      "hints": [
+        "I was designed to be one size fits all — but I come in different sizes because fingers vary.",
+        "I was traditionally worn on the fourth finger of the left hand because of a Roman belief about a vein running directly to the heart.",
+        "The diamond version of me was largely invented as a marketing campaign in 1947."
+      ],
+      "answer": "Engagement Ring",
+      "answerSubtitle": "A marketing triumph from 1947",
+      "funFact": "De Beers' 1947 campaign 'A Diamond Is Forever' — created by copywriter Frances Gerety in a single overnight session — is one of the most effective advertising campaigns in history. Before it, diamonds were not the standard engagement stone. De Beers deliberately suppressed the resale diamond market to maintain scarcity and convinced an entire civilisation that a specific rock proved love.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/026.jpg",
+      "imagePrompt": "A diamond ring floating above a 1947 ad agency office with a copywriter looking triumphant, bold comic editorial illustration",
+      "options": [
+        "Wedding Band",
+        "Promise Ring",
+        "Engagement Ring",
+        "Signet Ring"
+      ]
+    },
+    {
+      "id": "027",
+      "category": "food",
+      "hints": [
+        "I was originally a medicine prescribed by European doctors for stomach ailments in the 19th century.",
+        "My inventor blended me from water, sugar, caramel, and a secret mix of natural flavourings including kola nut.",
+        "I am the second most recognized word on Earth after 'OK.'"
+      ],
+      "answer": "Coca-Cola",
+      "answerSubtitle": "The world's most recognized brand",
+      "funFact": "The original Coca-Cola recipe contained cocaine — specifically, coca leaf extract. It was formulated by pharmacist John Pemberton in 1886 as a patent medicine to treat morphine addiction and headaches. The cocaine was removed from the formula in 1903. The company still uses decocainized coca leaf extract as a flavouring ingredient, imported exclusively from a single supplier.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/027.jpg",
+      "imagePrompt": "Victorian pharmacist mixing the original Coca-Cola in 1886, medicine bottle labelled with the formula, bold warm-toned comic editorial illustration",
+      "options": [
+        "Root Beer",
+        "Dr Pepper",
+        "Pepsi",
+        "Coca-Cola"
+      ]
+    },
+    {
+      "id": "028",
+      "category": "science",
+      "hints": [
+        "I was discovered by accident when two physicists noticed my signal in 1965 and initially thought it was pigeon droppings causing interference in their antenna.",
+        "I am the oldest light in the universe — the afterglow of the Big Bang.",
+        "I fill every point in the universe uniformly, including the space inside your body right now."
+      ],
+      "answer": "Cosmic Microwave Background",
+      "answerSubtitle": "The universe's afterglow",
+      "funFact": "Arno Penzias and Robert Wilson discovered the CMB while trying to detect radio waves bouncing off early communication satellites. They spent months assuming the persistent 'noise' was caused by pigeons roosting in their antenna. They cleaned out the pigeon droppings, removed the pigeons, and the signal remained. They later won the Nobel Prize. The pigeons did not.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/028.jpg",
+      "imagePrompt": "Two physicists with a giant antenna looking bewildered, a pigeon watching smugly nearby, the universe's glow visible in the background, bold comic science illustration",
+      "options": [
+        "Dark Matter",
+        "The Oort Cloud",
+        "Cosmic Microwave Background",
+        "Gravitational Waves"
+      ]
+    },
+    {
+      "id": "029",
+      "category": "places",
+      "hints": [
+        "I am a city that was literally relocated 2,800 km in the 1970s — the entire government was moved from one coast to another.",
+        "My name means 'future capital' in Portuguese.",
+        "I was designed by urban planner Lúcio Costa and architect Oscar Niemeyer and built from scratch in 41 months."
+      ],
+      "answer": "Brasília",
+      "answerSubtitle": "Brazil's purpose-built capital",
+      "funFact": "Brasília was built in 41 months from empty cerrado savanna and inaugurated in 1960. Seen from the air, it is shaped like a bird or an airplane — though the architects insist the shape emerged naturally from the design, not the other way around. Workers who built it, called Candangos, were largely poor migrants from northeast Brazil who slept in makeshift camps and many stayed permanently, forming the city's first community.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/029.jpg",
+      "imagePrompt": "Aerial view of Brasilia showing its bird/airplane shape, bold futuristic architectural editorial illustration, teal and gold tones",
+      "options": [
+        "Naypyidaw",
+        "Canberra",
+        "Brasília",
+        "Islamabad"
+      ]
+    },
+    {
+      "id": "030",
+      "category": "general",
+      "hints": [
+        "I am an action you perform voluntarily but cannot perform on command when someone asks you to.",
+        "Babies do me 40% more often than adults.",
+        "The average adult does me 15–20 times per minute but immediately stops upon trying to count."
+      ],
+      "answer": "Blinking",
+      "answerSubtitle": "The voluntary reflex",
+      "funFact": "Humans blink approximately 15,000–20,000 times per day, yet spend almost zero mental energy on it. When watching a film, audiences blink in synchrony at natural pause points — cuts, scene transitions, moments of low information. Researchers discovered this by tracking audience eye movements: entire cinemas blink simultaneously at the same moments, suggesting our brains collectively decide when the screen has nothing critical to show.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/030.jpg",
+      "imagePrompt": "A cinema audience all blinking in perfect synchrony at the same moment, one person in the crowd trying not to blink and failing, bold comic illustration",
+      "options": [
+        "Blinking",
+        "Breathing",
+        "Yawning",
+        "Sneezing"
+      ]
+    },
+    {
+      "id": "031",
+      "category": "history",
+      "hints": [
+        "I was the wealthiest person who has ever lived, adjusted for inflation — wealthier than any modern billionaire by a factor of several hundred.",
+        "I ruled a West African empire in the 14th century and famously destabilised the Egyptian economy with a single journey.",
+        "I gave away so much gold during my pilgrimage to Mecca that the gold price collapsed across North Africa and the Middle East for a decade."
+      ],
+      "answer": "Mansa Musa",
+      "answerSubtitle": "History's richest person",
+      "funFact": "When Mansa Musa passed through Cairo in 1324 on his Hajj pilgrimage, his entourage of 60,000 people included 12,000 enslaved people each carrying 4 pounds of gold bars, and 80 camels each carrying 300 pounds of gold dust. He distributed so much gold as charity that it triggered severe inflation in Egypt — gold's value dropped by 25% and took twelve years to recover. He apologised by loaning Egypt gold at interest, making him possibly history's first recorded person to cause an economic crisis through generosity.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/031.jpg",
+      "imagePrompt": "A magnificent African emperor on a golden throne surrounded by camels loaded with gold bars, Egyptian merchants looking panicked, bold historical editorial illustration",
+      "options": [
+        "Cleopatra",
+        "Mansa Musa",
+        "Kublai Khan",
+        "Genghis Khan"
+      ]
+    },
+    {
+      "id": "032",
+      "category": "tech",
+      "hints": [
+        "My name is a portmanteau coined because my inventor thought it sounded like a camera shutter.",
+        "I was created in 1970 by Willard Boyle and George Smith in a 1-hour brainstorming session at Bell Labs.",
+        "I am the technology inside every modern digital camera, phone camera, and telescope, converting light into electrical signals."
+      ],
+      "answer": "CCD Sensor",
+      "answerSubtitle": "The charge-coupled device",
+      "funFact": "Boyle and Smith invented the CCD (charge-coupled device) in approximately one hour by sketching it on a whiteboard — they were trying to solve a different storage problem entirely. They received the Nobel Prize in Physics in 2009, 39 years later. The CCD inside the Hubble Space Telescope is directly descended from their one-hour sketch. Modern smartphone cameras contain sensors descended from a whiteboard doodle.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/032.jpg",
+      "imagePrompt": "Two scientists sketching a CCD sensor on a whiteboard in one hour, tiny version of it visible inside a Hubble telescope in the background, bold comic tech illustration",
+      "options": [
+        "CCD Sensor",
+        "LED",
+        "Microchip",
+        "Transistor"
+      ]
+    },
+    {
+      "id": "033",
+      "category": "animals",
+      "hints": [
+        "I can regrow any part of my body including my heart, lungs, eyes, and up to 75% of my brain.",
+        "I am an aquatic salamander that never undergoes metamorphosis — I keep my juvenile features for life.",
+        "I am critically endangered in the wild, found only in one lake in Mexico, yet I am a common lab animal worldwide."
+      ],
+      "answer": "Axolotl",
+      "answerSubtitle": "The Mexican walking fish",
+      "funFact": "The axolotl's regenerative abilities are so extraordinary that scientists have been studying it for 150 years hoping to understand how to apply this to human medicine. Unlike most animals, the axolotl regrows perfect tissue with no scarring. Despite being famous in science labs worldwide, fewer than 1,000 are estimated to remain in the wild in Lake Xochimilco, Mexico, primarily threatened by pollution and invasive fish species.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/033.jpg",
+      "imagePrompt": "Cute axolotl regrowing its limbs with glowing regeneration effect, science lab backdrop with amazed researchers, bold comic science illustration, teal tones",
+      "options": [
+        "Axolotl",
+        "Salamander",
+        "Mudpuppy",
+        "Water Dragon"
+      ]
+    },
+    {
+      "id": "034",
+      "category": "movies",
+      "hints": [
+        "I am the highest-grossing film of all time adjusted for inflation — not the one most people name.",
+        "I was released in 1939 and featured a young girl and her little dog.",
+        "My most iconic line was voted the most misquoted line in cinema history — most people get one word wrong."
+      ],
+      "answer": "Gone With The Wind",
+      "answerSubtitle": "Cinema's inflation-adjusted champion",
+      "funFact": "Gone with the Wind (1939) earned the equivalent of roughly $3.4 billion in today's money — more than any film ever made including Avatar. The famous line 'Frankly my dear, I don't give a damn' required special permission from the Hays Code censors because 'damn' was considered profane. The censors approved it after extensive negotiation. Most people misquote it as 'Quite frankly, my dear...' — inserting 'quite' that isn't there.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/034.jpg",
+      "imagePrompt": "1930s Hollywood film set with a burning Atlanta backdrop, bold dramatic editorial illustration, warm golden and red tones",
+      "options": [
+        "Casablanca",
+        "The Wizard of Oz",
+        "Gone With The Wind",
+        "Snow White"
+      ]
+    },
+    {
+      "id": "035",
+      "category": "places",
+      "hints": [
+        "I am the only place on Earth where you can stand in four countries simultaneously.",
+        "I am a precise intersection point where four US states meet at a single corner.",
+        "Hundreds of tourists visit me daily to do the splits across state lines."
+      ],
+      "answer": "Four Corners Monument",
+      "answerSubtitle": "Where four US states meet",
+      "funFact": "The Four Corners Monument (where Utah, Colorado, New Mexico, and Arizona meet) is technically in the wrong place. A 2009 survey found it is about 1,800 feet east of where it should be geographically. However, the US Supreme Court has ruled that since all four states agreed on this location in 1868, legal boundaries are fixed regardless of geographic accuracy. You can be in four states at once — at the wrong spot.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/035.jpg",
+      "imagePrompt": "A tourist doing the splits across a compass-rose monument with four US state signs, bold comic editorial illustration, desert landscape background",
+      "options": [
+        "The Prime Meridian",
+        "The Equator",
+        "Four Corners Monument",
+        "The International Date Line"
+      ]
+    },
+    {
+      "id": "036",
+      "category": "general",
+      "hints": [
+        "I was originally designed to help deaf people, but became useful to everyone.",
+        "I was invented in the 1970s and first deployed on television programmes for the hard of hearing.",
+        "I am now used by most people while watching videos for reasons entirely unrelated to hearing — restaurants, commutes, sleeping partners."
+      ],
+      "answer": "Subtitles / Closed Captions",
+      "answerSubtitle": "The deaf community's gift to everyone",
+      "funFact": "A 2023 study found that 50% of people aged 18–25 watch TV with subtitles on all the time — not because of hearing loss, but because of difficulty with accents, rapid dialogue, and background noise. The use of subtitles has doubled in a decade. The technology was patented in 1972 specifically to help deaf viewers; it is now primarily used by young people watching content on their phones with the sound off.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/036.jpg",
+      "imagePrompt": "Person on a bus watching a video with subtitles, sound waves crossed out, a deaf person in the corner looking vindicated, bold comic illustration",
+      "options": [
+        "Teleprompter",
+        "Sign Language",
+        "Audio Description",
+        "Subtitles / Closed Captions"
+      ]
+    },
+    {
+      "id": "037",
+      "category": "sports",
+      "hints": [
+        "I am a sport where participants travel downhill at up to 90 mph lying on their back, feet-first, on a tiny sled.",
+        "I was invented at a Swiss hotel in 1884 when bored English tourists tied two sleds together.",
+        "My name comes from the skeleton of the first sled design, which had an exposed metal frame."
+      ],
+      "answer": "Skeleton",
+      "answerSubtitle": "The 90mph backwards slide",
+      "funFact": "Skeleton was invented at the Cresta Run in St. Moritz, Switzerland, by English aristocrats who had nothing better to do in the Alps in winter. The sport was excluded from the Winter Olympics from 1948 to 2002 — a 54-year ban — for being too dangerous. It returned in 2002 and athletes now reach speeds of 93 mph on a track with no steering, only subtle body-weight shifts to navigate turns.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/037.jpg",
+      "imagePrompt": "Person hurtling headfirst down an ice track on a tiny sled at 90mph, speedometer visible, expression of pure terror, bold comic winter sports illustration",
+      "options": [
+        "Luge",
+        "Skeleton",
+        "Bobsled",
+        "Speed Skiing"
+      ]
+    },
+    {
+      "id": "038",
+      "category": "history",
+      "hints": [
+        "I am the most successful pirate in recorded history, seizing over 1,800 ships in my career.",
+        "I was a woman operating in the South China Sea in the early 19th century.",
+        "At my peak I commanded a fleet of 1,800 vessels and 80,000 sailors — larger than most contemporary navies."
+      ],
+      "answer": "Ching Shih",
+      "answerSubtitle": "History's most successful pirate",
+      "funFact": "Ching Shih (also spelled Zheng Yi Sao) began as a sex worker in a floating brothel in Canton and became the most powerful pirate in history. Her Red Flag Fleet was so formidable that the Chinese government, the Portuguese navy, and the British East India Company all failed to defeat her. She eventually negotiated her own peace treaty — keeping her wealth, her fleet, and opening a gambling house. She died aged 69, peacefully, in her bed.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/038.jpg",
+      "imagePrompt": "Female pirate admiral commanding 1800 ships from a flagship in South China Sea, bold dramatic editorial illustration, warm tones",
+      "options": [
+        "Ching Shih",
+        "Mary Read",
+        "Anne Bonny",
+        "Grace O'Malley"
+      ]
+    },
+    {
+      "id": "039",
+      "category": "science",
+      "hints": [
+        "I am a process your cells use to convert sunlight — or food energy — into a usable form of chemical power.",
+        "My product is a molecule your body uses for virtually every biological function.",
+        "My product's full name is adenosine triphosphate, and your body produces your entire body weight's worth of me per day."
+      ],
+      "answer": "ATP (Adenosine Triphosphate)",
+      "answerSubtitle": "The body's energy currency",
+      "funFact": "Your body produces and recycles approximately its own body weight in ATP every single day — a 70kg person synthesises roughly 70kg of ATP. ATP isn't stored in large quantities; each molecule is recycled 500–750 times per day. Every movement, every thought, every heartbeat runs on ATP. You are essentially a machine that converts food and oxygen into this single molecule, then burns it.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/039.jpg",
+      "imagePrompt": "A human silhouette with ATP molecules glowing inside every cell like tiny batteries, bold blue and teal science illustration",
+      "options": [
+        "DNA",
+        "ATP (Adenosine Triphosphate)",
+        "Glucose",
+        "RNA"
+      ]
+    },
+    {
+      "id": "040",
+      "category": "food",
+      "hints": [
+        "I was created in 1965 by a University of Florida scientist specifically for the Florida Gators football team.",
+        "I replaced lost electrolytes and carbohydrates after exercise — a novel concept at the time.",
+        "My original formula was described by players as tasting like 'toilet water' but they drank me anyway."
+      ],
+      "answer": "Gatorade",
+      "answerSubtitle": "The sports drink born in a lab",
+      "funFact": "Dr. Robert Cade invented Gatorade in 1965 after being asked why Florida Gators players lost so much weight during games but rarely urinated. He discovered they were sweating out electrolytes and carbohydrates faster than they could replace them. The original formula — water, sodium, sugar, potassium, phosphate, and lemon juice — tasted appalling. Players drank it anyway. The Gators won the Orange Bowl that season, and Gatorade was born.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/040.jpg",
+      "imagePrompt": "A 1965 scientist in a lab mixing the first Gatorade while football players look sceptical, bold warm-toned retro comic illustration",
+      "options": [
+        "Powerade",
+        "Red Bull",
+        "Lucozade",
+        "Gatorade"
+      ]
+    },
+    {
+      "id": "041",
+      "category": "places",
+      "hints": [
+        "I am a country where one in ten of the world's plant species can be found, despite covering only 2% of the Earth's land area.",
+        "I contain the largest tropical rainforest on Earth and the world's largest river by volume.",
+        "I am the world's fifth largest country by both area and population."
+      ],
+      "answer": "Brazil",
+      "answerSubtitle": "The planet's biodiversity champion",
+      "funFact": "Brazil contains approximately 60,000 plant species, 1,800 bird species, and 3,000 freshwater fish species — more than any other country. The Amazon River discharges 20% of all fresh water entering the world's oceans and creates a freshwater plume visible from space. Some Amazon tributaries are themselves among the world's largest rivers — the Amazon is effectively a river system the size of a continent.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/041.jpg",
+      "imagePrompt": "Dense Amazon rainforest canopy from above with thousands of species labeled, river winding through it, bold editorial nature illustration",
+      "options": [
+        "India",
+        "Congo",
+        "Brazil",
+        "Colombia"
+      ]
+    },
+    {
+      "id": "042",
+      "category": "movies",
+      "hints": [
+        "My production was so troubled that studios considered me 'unreleasable' and nearly shelved me entirely.",
+        "My director was fired and replaced mid-production; the replacement director requested his name be removed from the credits.",
+        "I became the highest-grossing film of 1989 and spawned one of cinema's most enduring franchises."
+      ],
+      "answer": "Batman (1989)",
+      "answerSubtitle": "The almost-cancelled blockbuster",
+      "funFact": "Tim Burton's Batman (1989) was so contentious that 50,000 protest letters were sent to Warner Bros. before filming even began — fans were furious that comedian Michael Keaton was cast as Batman. Warner Bros. seriously considered cancelling production. The finished film grossed $411 million and single-handedly revived superhero cinema. Keaton's performance is still considered definitive by many fans.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/042.jpg",
+      "imagePrompt": "1989 Batman costume on a dark Gotham rooftop, pile of protest letters in the background, bold dramatic comic editorial illustration",
+      "options": [
+        "Spider-Man (2002)",
+        "Superman (1978)",
+        "Batman (1989)",
+        "X-Men (2000)"
+      ]
+    },
+    {
+      "id": "043",
+      "category": "animals",
+      "hints": [
+        "I am statistically the deadliest animal in Africa, responsible for more human deaths annually than lions, hippos, or crocodiles.",
+        "I carry diseases responsible for killing over 700,000 people globally each year.",
+        "I weigh just 2.5 milligrams."
+      ],
+      "answer": "Mosquito",
+      "answerSubtitle": "The world's deadliest animal",
+      "funFact": "Mosquitoes are responsible for more human deaths than all other animals combined — roughly 750,000 per year, primarily through malaria, dengue, yellow fever, and Zika. Only female mosquitoes bite; they need blood protein to produce eggs. Males eat only nectar. The mosquito's wings beat 400–600 times per second, producing the characteristic whine. Scientists have calculated that eliminating all mosquito species would cause minimal ecosystem damage — they have few ecological roles that other insects don't fill.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/043.jpg",
+      "imagePrompt": "A tiny mosquito casting an enormous shadow shaped like a skull, bold comic editorial illustration, dramatic scale contrast",
+      "options": [
+        "Cone Snail",
+        "Tsetse Fly",
+        "Box Jellyfish",
+        "Mosquito"
+      ]
+    },
+    {
+      "id": "044",
+      "category": "history",
+      "hints": [
+        "I was written in 1215 and am considered the foundation of constitutional democracy worldwide.",
+        "Most of my 63 clauses concerned medieval disputes between barons and a specific king, and most were obsolete within years.",
+        "Only three of my original clauses still form part of English law today, but my principle — that no one is above the law — changed history."
+      ],
+      "answer": "Magna Carta",
+      "answerSubtitle": "The document that invented rights",
+      "funFact": "Of the 63 clauses in the original Magna Carta, only three remain in English law: the freedom of the English Church, the ancient liberties of the City of London, and — most famously — clause 39, guaranteeing that no free man may be imprisoned without lawful judgement. That third clause is the basis of habeas corpus, trial by jury, and the right to a fair trial in every common law country on Earth.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/044.jpg",
+      "imagePrompt": "King John grudgingly signing the Magna Carta at Runnymede in 1215, angry barons surrounding him, bold comic medieval editorial illustration",
+      "options": [
+        "Habeas Corpus",
+        "Magna Carta",
+        "The Declaration of Independence",
+        "The Bill of Rights"
+      ]
+    },
+    {
+      "id": "045",
+      "category": "tech",
+      "hints": [
+        "I was created by a Finnish student as a hobby project in 1991 with the line: 'just a hobby, won't be big and professional like GNU.'",
+        "I now run 96.4% of the world's top one million web servers.",
+        "My name is a portmanteau of my creator's first name and a famous operating system."
+      ],
+      "answer": "Linux",
+      "answerSubtitle": "The hobby that runs the internet",
+      "funFact": "Linus Torvalds created Linux in 1991 as a 21-year-old student at the University of Helsinki, posting its first announcement to a Usenet forum with characteristic understatement. Linux is now the foundation of Android (used by 3 billion people), all supercomputers in the world's Top 500, most cloud infrastructure, and the International Space Station. The hobby has been described as 'the largest collaborative project in human history.'",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/045.jpg",
+      "imagePrompt": "A young Finnish student typing in a university dorm in 1991, the Linux penguin mascot appearing behind him, servers running the internet visible in the background, bold comic tech illustration",
+      "options": [
+        "Windows",
+        "Linux",
+        "Android",
+        "Unix"
+      ]
+    },
+    {
+      "id": "046",
+      "category": "food",
+      "hints": [
+        "I was invented in 1943 during World War II when Italy was running out of cocoa.",
+        "My inventor substituted hazelnuts for cocoa, using a locally abundant ingredient.",
+        "I am now the world's most popular chocolate-hazelnut spread, consuming 25% of the world's hazelnut supply."
+      ],
+      "answer": "Nutella",
+      "answerSubtitle": "The wartime chocolate substitute",
+      "funFact": "Pietro Ferrero invented Nutella's ancestor — originally called 'pasta gianduja' and sold as a solid block — in 1943 in wartime Italy, when cocoa was rationed. He used Piedmont's abundant hazelnuts as a cocoa extender. Nutella now consumes so many hazelnuts that in 2017, a report that climate change threatened Turkish hazelnut crops caused a brief global panic among economists tracking spreadable condiment supply chains — a sentence that would have confused anyone before 1965.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/046.jpg",
+      "imagePrompt": "A 1943 Italian pastry shop with a WWII ration notice next to a bowl of hazelnuts, inventor mixing the first Nutella, bold warm editorial illustration",
+      "options": [
+        "Marmite",
+        "Nutella",
+        "Vegemite",
+        "Peanut Butter"
+      ]
+    },
+    {
+      "id": "047",
+      "category": "general",
+      "hints": [
+        "I am something that appears in virtually every human culture across history, yet no one can fully explain why I evolved.",
+        "I am involuntary, contagious between people and even across species — dogs catch me from humans.",
+        "My contagiousness is correlated with empathy — psychopaths are significantly less susceptible to catching mine from others."
+      ],
+      "answer": "Yawning",
+      "answerSubtitle": "Evolution's unexplained reflex",
+      "funFact": "Contagious yawning is observed in humans, chimpanzees, bonobos, dogs, and budgerigars — and it's strongly linked to empathy circuits in the brain. Children with autism spectrum disorder yawn significantly less contagiously than neurotypical children. Psychopaths show reduced contagious yawning. The evolutionary purpose of yawning itself remains genuinely debated — thermoregulation, oxygen regulation, and state transition are all proposed but none fully proven.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/047.jpg",
+      "imagePrompt": "A chain of people all yawning contagiously including one dog joining in, empathy radar showing high readings, bold comic editorial illustration",
+      "options": [
+        "Hiccupping",
+        "Laughing",
+        "Sneezing",
+        "Yawning"
+      ]
+    },
+    {
+      "id": "048",
+      "category": "sports",
+      "hints": [
+        "I am the only sport where the playing surface is different at every venue — sometimes dramatically so.",
+        "I was invented in Scotland and the word for my playing surface simply means 'links' in Gaelic — open ground between the sea and farmland.",
+        "Professional players have exact yardage books for each unique venue because no two are the same."
+      ],
+      "answer": "Golf",
+      "answerSubtitle": "The sport with no standard field",
+      "funFact": "Every golf course in the world is unique — there is no standardised surface, no fixed dimensions, and no identical layout. A football pitch is 100–110 metres long; a golf course can be anywhere from 5,000 to 8,000 yards. The 'links' courses of Scotland were built on land unsuitable for farming — coastal sand dunes where sheep grazed — which is why the original hazards were natural rough grass, sand, and wind, not artificial obstacles.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/048.jpg",
+      "imagePrompt": "A golfer on an extremely unusual golf hole with a lighthouse, cliff edge, and sheep as hazards, Scottish coastal setting, bold comic illustration",
+      "options": [
+        "Tennis",
+        "Cricket",
+        "Golf",
+        "Polo"
+      ]
+    },
+    {
+      "id": "049",
+      "category": "science",
+      "hints": [
+        "I am a quantum phenomenon in which two particles are connected such that measuring one instantly determines the state of the other, regardless of distance.",
+        "I so disturbed one famous physicist that he called me 'spooky action at a distance' and spent years trying to disprove me.",
+        "I am now used in quantum computing and quantum cryptography — technologies that depend on me being real."
+      ],
+      "answer": "Quantum Entanglement",
+      "answerSubtitle": "Einstein's spooky action",
+      "funFact": "Albert Einstein despised quantum entanglement and co-authored the famous EPR paper in 1935 specifically to argue it was impossible — proof that quantum mechanics must be incomplete. He was wrong. In 2022, the Nobel Prize in Physics was awarded to three scientists who proved entanglement is real and cannot be explained by any 'hidden variable' theory. Einstein's greatest error wasn't his cosmological constant — it was underestimating how weird reality is.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/049.jpg",
+      "imagePrompt": "Two entangled particles connected by a glowing thread across the universe, Einstein looking baffled at a blackboard, bold comic quantum physics illustration",
+      "options": [
+        "Wave-Particle Duality",
+        "Quantum Entanglement",
+        "Quantum Tunnelling",
+        "Superposition"
+      ]
+    },
+    {
+      "id": "050",
+      "category": "history",
+      "hints": [
+        "I was a library said to contain the sum of all human knowledge in the ancient world.",
+        "I was allegedly destroyed in a catastrophic fire, though historians now believe this is mostly myth — I declined gradually.",
+        "I was located in ancient Egypt and was the intellectual centre of the Mediterranean world."
+      ],
+      "answer": "Library of Alexandria",
+      "answerSubtitle": "History's most mythologised library",
+      "funFact": "The Library of Alexandria was never destroyed in a single dramatic fire — that is largely a myth. It declined gradually over centuries through funding cuts, political turmoil, and the Roman conversion to Christianity which reduced scholarly patronage. Julius Caesar accidentally burned some of it in 48 BCE — probably a warehouse of books awaiting export, not the main library. Historians believe it faded quietly rather than burning dramatically, which is somehow less satisfying but more historically accurate.",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_ORG/cluedin-content/main/images/2026-06-08/050.jpg",
+      "imagePrompt": "Ancient Library of Alexandria with scrolls lining vast halls, a small fire in the corner looking underwhelming versus the myth, bold editorial ancient history illustration",
+      "options": [
+        "Library of Pergamon",
+        "Library of Ashurbanipal",
+        "Library of Nalanda",
+        "Library of Alexandria"
+      ]
+    }
+  ]
+}
